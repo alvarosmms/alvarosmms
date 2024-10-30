@@ -1,5 +1,5 @@
 -Nivel Principiante 🚀
--class Aprendiz:
+- class Aprendiz:
 -   def __init__(self):
 -       self.nombre = "Álvaro"
 -       self.skills = ["🐍"]
@@ -7,5 +7,5 @@
 -       self.paciente = False  # ¡Todavía falta trabajo en la paciencia! 🙄
 -       self.objetivos = ["aprender", "no romper nada... mucho", "tomar café ☕ "]
 
--   def progreso(self):
+-    def progreso(self):
 -        return f"{self.nombre} está aprendiendo a programar... ¡Paciencia={self.paciente}! 🍀"
