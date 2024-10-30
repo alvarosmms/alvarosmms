@@ -9,6 +9,3 @@
 
 -   def progreso(self):
 -        return f"{self.nombre} está aprendiendo a programar... ¡Paciencia={self.paciente}! 🍀"
-
--yo = Aprendiz()
--print(yo.progreso())
